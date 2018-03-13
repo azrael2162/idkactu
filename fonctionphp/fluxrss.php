@@ -1,5 +1,5 @@
 <?php
-$url = "http://www.zdnet.fr/feeds/rss/actualites/internet/";
+$url = "http://www.zdnet.fr/feeds/rss/actualites/informatique/";
 $rss = simplexml_load_file($url);
 
 foreach ($rss->channel->item as $item){
