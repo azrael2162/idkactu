@@ -14,27 +14,6 @@
 
   <div class="collapse navbar-collapse" id="navbarColor02">
     <ul class="navbar-nav mr-auto">
-      <li class="nav-item active">
-        <a class="nav-link" href="#"></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Reseaux/Sec</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Developpement</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Hardware</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" >|</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" >|</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Connexion</a>
-      </li>
-    </ul>
+      
   </div>
 </nav>
